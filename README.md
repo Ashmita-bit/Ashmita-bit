@@ -254,40 +254,46 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashmita-bit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"
-    alt="GitHub Stats"
-  />
 
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Ashmita-bit&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=A78BFA&dates=FFFFFF"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/Ashmita-bit">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=Ashmita-bit&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="Ashmita's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/Ashmita-bit">
+    <img
+      width="49%"
+      src="https://streak-stats.demolab.com?user=Ashmita-bit&theme=tokyonight&hide_border=true"
+      alt="Ashmita's GitHub Streak"
+    />
+  </a>
+
 </p>
 
 <p align="center">
-  <img
-    width="42%"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Ashmita-bit?tab=repositories">
+    <img
+      width="42%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Ashmita's Top Languages"
+    />
+  </a>
 </p>
-
----
 
 ## GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/Ashmita-bit">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
-
 ---
-
 ## Contribution Activity
 
 <p align="center">
