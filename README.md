@@ -250,50 +250,30 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 </p>
 
 ---
-
-## GitHub Analytics
-
-<p align="center">
-
-  <a href="https://github.com/Ashmita-bit">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Ashmita-bit&show_icons=true&theme=tokyonight&hide_border=true"
-      alt="Ashmita's GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/Ashmita-bit">
-    <img
-      width="49%"
-      src="https://streak-stats.demolab.com?user=Ashmita-bit&theme=tokyonight&hide_border=true"
-      alt="Ashmita's GitHub Streak"
-    />
-  </a>
-
-</p>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/Ashmita-bit?tab=repositories">
-    <img
-      width="42%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Ashmita's Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ashmita-bit&show_icons=true&theme=tokyonight"
+    alt="Ashmita's GitHub Stats"
+    height="180"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&theme=tokyonight"
+    alt="Ashmita's Top Languages"
+    height="180"
+  />
 </p>
 
-## GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <a href="https://github.com/Ashmita-bit">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
 </p>
----
 ## Contribution Activity
 
 <p align="center">
@@ -307,7 +287,7 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 </p>
 
 ---
----
+
 
 ## Contribution Snake
 
