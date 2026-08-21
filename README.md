@@ -307,6 +307,16 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 </p>
 
 ---
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ashmita-bit/Ashmita-bit/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ## Current Focus
 
