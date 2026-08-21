@@ -49,7 +49,7 @@ I am continuously learning and building projects that solve real-world problems 
 
 - Software Engineering Internships
 - Full-Stack Development Opportunities
-- DevOps and Cloud Learning Opportunities
+- DevOps  Learning Opportunities
 - AI / ML Projects
 - Open-Source Collaboration
 - Innovative Developer Communities
@@ -212,8 +212,12 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 ### Simplilearn
 
 <p>
-  <img src="https://img.shields.io/badge/Simplilearn-GitHub%20Copilot-5B21B6?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simplilearn-Python%20Libraries%20for%20Data%20Science-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
+  ## Certifications
+
+### Simplilearn
+
+- [Introduction to GitHub Copilot](https://drive.google.com/file/d/1b9ogMVz9B-3dQrYV3j4vFuWTZXm3M9HH/view)
+- [Python Libraries for Data Science](https://drive.google.com/file/d/1slkvauw__oA5fKbDdYDN-VFtsDBCgbzS/view)
   <img src="https://img.shields.io/badge/Simplilearn-Python%20for%20Beginners-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
@@ -223,29 +227,8 @@ Building end-to-end applications focused on practical problem-solving, clean sof
   <img src="https://img.shields.io/badge/Disha%20Computer%20Institute-C%20Programming-4338CA?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-### AWS
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Exploring-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
 
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Learning-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Learning-7C3AED?style=for-the-badge" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Learning-4338CA?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
 
 ---
 
@@ -254,16 +237,7 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 <p align="center">
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Learn-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Code-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Compete-4338CA?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
