@@ -212,19 +212,27 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 ### Simplilearn
 
 <p>
-  ## Certifications
 
-### Simplilearn
+ ## Certifications
 
-- [Introduction to GitHub Copilot](https://drive.google.com/file/d/1b9ogMVz9B-3dQrYV3j4vFuWTZXm3M9HH/view)
-- [Python Libraries for Data Science](https://drive.google.com/file/d/1slkvauw__oA5fKbDdYDN-VFtsDBCgbzS/view)
-  <img src="https://img.shields.io/badge/Simplilearn-Python%20for%20Beginners-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<p align="center">
 
-### Disha Computer Institute
+<a href="https://drive.google.com/file/d/1b9ogMVz9B-3dQrYV3j4vFuWTZXm3M9HH/view">
+  <img src="https://img.shields.io/badge/Introduction%20to%20GitHub%20Copilot-5B21B6?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Introduction to GitHub Copilot" />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Disha%20Computer%20Institute-C%20Programming-4338CA?style=for-the-badge&logo=c&logoColor=white" />
+<a href="https://drive.google.com/file/d/1slkvauw__oA5fKbDdYDN-VFtsDBCgbzS/view">
+  <img src="https://img.shields.io/badge/Python%20Libraries%20for%20Data%20Science-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python Libraries for Data Science" />
+</a>
+
+<a href="https://drive.google.com/file/d/1lC7jpg3sqN9ya-Tf09RTpphLItm1gRc-/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/C%20Programming-7C3AED?style=for-the-badge&logo=c&logoColor=white" alt="Python for Beginners Certificate" />
+</a>
+
+<a href="https://drive.google.com/file/d/1omE1lJTkZRoCaZbrVnv_7xRqCqpaLrV6/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/Python%20for%20Beginners-4338CA?style=for-the-badge&logo=python&logoColor=white" alt="C Programming Certificate" />
+</a>
+
 </p>
 
 
