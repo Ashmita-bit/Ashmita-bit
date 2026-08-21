@@ -250,29 +250,20 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 </p>
 
 ---
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ashmita-bit&show_icons=true&theme=tokyonight"
-    alt="Ashmita's GitHub Stats"
-    height="180"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&theme=tokyonight"
-    alt="Ashmita's Top Languages"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashmita-bit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<h2>🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 ## Contribution Activity
 
