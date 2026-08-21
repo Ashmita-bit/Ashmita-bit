@@ -213,7 +213,7 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 
 <p>
 
- ## Certifications
+## Certifications
 
 <p align="center">
 
@@ -225,11 +225,11 @@ Building end-to-end applications focused on practical problem-solving, clean sof
   <img src="https://img.shields.io/badge/Python%20Libraries%20for%20Data%20Science-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python Libraries for Data Science" />
 </a>
 
-<a href="https://drive.google.com/file/d/1lC7jpg3sqN9ya-Tf09RTpphLItm1gRc-/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/1omE1lJTkZRoCaZbrVnv_7xRqCqpaLrV6/view?usp=drivesdk">
   <img src="https://img.shields.io/badge/C%20Programming-7C3AED?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Certificate" />
 </a>
 
-<a href="https://drive.google.com/file/d/1omE1lJTkZRoCaZbrVnv_7xRqCqpaLrV6/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/1lC7jpg3sqN9ya-Tf09RTpphLItm1gRc-/view?usp=drivesdk">
   <img src="https://img.shields.io/badge/Python%20for%20Beginners-4338CA?style=for-the-badge&logo=python&logoColor=white" alt="Python for Beginners Certificate" />
 </a>
 
