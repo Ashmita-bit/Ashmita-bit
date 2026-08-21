@@ -250,21 +250,17 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 </p>
 
 ---
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashmita-bit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Ashmita's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmita-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Ashmita's Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashmita-bit&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 ## Contribution Activity
 
 <p align="center">
