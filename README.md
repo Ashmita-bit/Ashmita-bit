@@ -213,8 +213,6 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 
 <p>
 
-## Certifications
-
 <p align="center">
 
 <a href="https://drive.google.com/file/d/1b9ogMVz9B-3dQrYV3j4vFuWTZXm3M9HH/view">
@@ -253,13 +251,15 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Ashmita's GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
+
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Ashmita's Top Languages" />
+  <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
-
 
 ## Contribution Activity
 
