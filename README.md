@@ -260,7 +260,6 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 <p align="center">
   <img src="./profile/trophies.svg" alt="GitHub Trophies" />
 </p>
-
 ## Contribution Activity
 
 <p align="center">
