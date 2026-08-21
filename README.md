@@ -297,11 +297,13 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 ## Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmita-bit&bg_color=0D1117&color=FFFFFF&line=7C3AED&point=A78BFA&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Activity Graph"
-  />
+  <a href="https://github.com/Ashmita-bit">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmita-bit&theme=tokyo-night&hide_border=true"
+      width="100%"
+      alt="Ashmita's Contribution Activity Graph"
+    />
+  </a>
 </p>
 
 ---
