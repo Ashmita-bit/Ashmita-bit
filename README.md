@@ -267,6 +267,17 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 </a>
   
 </p>
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/ashmita-bit/">
+    <img src="https://img.shields.io/badge/LeetCode-ashmita--bit-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+
+  <a href="https://neetcode.io/user/CrystalElectro602">
+    <img src="https://img.shields.io/badge/NeetCode-CrystalElectro602-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white" alt="NeetCode Profile" />
+  </a>
+</p>
 
 ---
 <h2>📊 GitHub Analytics</h2>
