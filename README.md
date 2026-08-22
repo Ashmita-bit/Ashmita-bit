@@ -162,6 +162,27 @@ A web application designed to help connect blood donors and recipients based on 
 
 </details>
 
+<details>
+<summary><b>04 — Gesture Control Presenter</b></summary>
+
+<br>
+
+A computer vision-based presentation control system that enables users to control presentation slides using real-time hand gestures through a webcam.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, OpenCV, MediaPipe |
+| **Scale** | Real-time gesture-based presentation control |
+| **Performance** | Webcam-based hand tracking and gesture recognition |
+| **Interaction** | Touch-free slide navigation using hand gestures |
+| **Impact** | Creates a more interactive and hands-free presentation experience |
+| **Repository** | [View Repository](https://github.com/Ashmita-bit/gesture-control-presenter) |
+| **Demo** | [Watch Demo on LinkedIn](https://lnkd.in/p/gEpzfEWh) |
+
+**Engineering Focus:** Developed a real-time computer vision application that detects hand gestures from a webcam feed and translates them into presentation controls.
+
+</details>
+
 ---
 
 ## Experience
