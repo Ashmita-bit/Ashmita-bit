@@ -259,14 +259,7 @@ Building end-to-end applications focused on practical problem-solving, clean sof
 
 ---
 
-## Coding Profiles
 
-<p align="center">
- <a href="https://leetcode.com/u/ashmita-bit/">
-  <img src="https://img.shields.io/badge/LeetCode-ashmita--bit-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-  
-</p>
 ## Coding Profiles
 
 <p align="center">
